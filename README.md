@@ -7,6 +7,5 @@ Why This Framework Is Strong
 • Scalable and thread-safe (ThreadLocal WebDriver)
 • Easy locator maintenance via POM
 • Parallel test execution ready
-• Allure reports with screenshots
 • Cloud-ready (BrowserStack, SauceLabs)
 • CI/CD ready for Jenkins, GitHub Action
